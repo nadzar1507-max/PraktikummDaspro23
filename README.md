@@ -3,7 +3,7 @@ Nama: Muhammad nadzar al ghifary
 NIM: 264107020050
 Kelas: TI-1H
 
-Hasil Uji Studi Kasus 2 oleh <Nama>
+Hasil Uji Studi Kasus 2 oleh Ahmad Gustiar Fadillah
 | No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
 |----|-------|---------|------------|---------|---------|
 | 1 | PKM | 4 | 0 | Berhak | Ya |
